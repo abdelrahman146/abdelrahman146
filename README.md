@@ -19,6 +19,3 @@ I am working as Senior Software Engineer at Tradelig<br>Ex Senior Software Engin
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=abdelrahman146&icon=0&color=0)](https://visitcount.itsvg.in)
