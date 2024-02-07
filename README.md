@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working as Senior Software Engineer at Tradelig<br>Ex Senior Software Engineer at Intigral<br>
+I am working as Senior Software Engineer at Tradeling<br>Ex Senior Software Engineer at Intigral<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdel-rahman-hussein/) 
