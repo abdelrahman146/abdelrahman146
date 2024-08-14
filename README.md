@@ -1,3 +1,5 @@
+![codewars](https://www.codewars.com/users/abdelrahman146/badges/large) 
+
 # 💫 About Me:
 I am working as Senior Software Engineer at Tradeling<br>Ex Senior Software Engineer at Intigral<br>
 
